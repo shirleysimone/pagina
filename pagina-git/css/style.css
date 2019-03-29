@@ -1,0 +1,70 @@
+
+/*
+seletor{
+    propriedade: valor;
+}
+*/
+body{
+    margin: 0;
+    font-family: link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet";
+}
+
+a{
+    text-decoration: nome;
+}
+
+
+.banner{
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    
+}
+h1{
+    padding-top: 15%;
+    font-size: 2.8rem;
+    margin: 0;
+}
+.subtitulo{
+    font-size: 1.2rem;
+}
+.botao{
+    color:  #7E459B;
+    border-radius: 2rem;
+    /*text-transform: uppercase;*/
+    background-color: white;
+    padding: 0.6rem;
+    border: 1px solid  #7E459B;
+}
+h2{
+    color:  #7E459B;
+    text-align: center;
+}
+.sobre_mim{
+text-align:center; 
+padding-left: 10%;
+padding-right: 10%;
+}
+.div_minhas_habilidades{
+    padding: 5% 30%;
+    text-align: left;
+}
+.botao_central{
+text-align: center;
+}
+.redes_sociais{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ancoras{
+    background-color: #7E459B;
+    margin: 3%;
+    padding: 0.9rem;
+    color: white;
+}
